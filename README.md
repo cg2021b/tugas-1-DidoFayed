@@ -5,11 +5,18 @@ tugas-1-DidoFayed created by GitHub Classroom
 <br><h2>Nama benda : Botol Minyak Angin
 
 <br>
-  ![311004](https://user-images.githubusercontent.com/80528848/134258499-339be831-9dce-4df5-b585-0c2cf238c3cc.jpg)
-![311005](https://user-images.githubusercontent.com/80528848/134258505-f8b58965-efff-4ba3-8106-58adb61af4c5.jpg)
-![311006](https://user-images.githubusercontent.com/80528848/134258506-0c6dc62a-63e8-4ffd-8f97-de0b492a0152.jpg)
-![311007](https://user-images.githubusercontent.com/80528848/134258508-e0bcd117-ea41-46ea-8dac-256dcecebf90.jpg)
-<br> <h2>Depan atas
+ ![311004](https://user-images.githubusercontent.com/80528848/134258499-339be831-9dce-4df5-b585-0c2cf238c3cc.jpg)
+
+  <br>
+  ![311005](https://user-images.githubusercontent.com/80528848/134258505-f8b58965-efff-4ba3-8106-58adb61af4c5.jpg)
+
+  <br>
+  ![311006](https://user-images.githubusercontent.com/80528848/134258506-0c6dc62a-63e8-4ffd-8f97-de0b492a0152.jpg)
+
+  <br>
+  ![311007](https://user-images.githubusercontent.com/80528848/134258508-e0bcd117-ea41-46ea-8dac-256dcecebf90.jpg)
+
+  <br> <h2>Depan atas
 <br>
 ![310967](https://user-images.githubusercontent.com/80528848/134257024-07ee4307-9de2-4cd9-a3e7-28cfd796e0a4.jpg)
 
