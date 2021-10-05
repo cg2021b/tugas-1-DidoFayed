@@ -1,6 +1,10 @@
 # tugas-1-DidoFayed
 tugas-1-DidoFayed created by GitHub Classroom
 
+
+Link aplikasi https://cg2021b.github.io/tugas-1-DidoFayed/
+
+
 Dido Fabian Fayed (05111940000059)
 
 ## Tugas 1
